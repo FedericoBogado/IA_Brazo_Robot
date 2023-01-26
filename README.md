@@ -21,4 +21,4 @@ E.E.S.T.N5 de Temperley "2 De Abril"
  - [Arduino](https://www.arduino.cc/)
  - [Numpy](https://numpy.org/)
  - [Pyserial](https://pyserial.readthedocs.io/en/latest/)
-  - [C](https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170)
+ - [C++](https://devdocs.io/cpp/)

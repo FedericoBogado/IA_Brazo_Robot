@@ -20,11 +20,34 @@ La escuela en donde realice este proyecto y mis estudios es:
 
 E.E.S.T.N5 de Temperley "2 De Abril"
 
+<a href="https://www.facebook.com/industrialdetemperleyoficial/?locale=es_LA">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook Tecnica" height="60" width="60">
+   </a>
+
 ## 🖥 Tecnologias utilizadas
 
- - [🐍Python](https://www.python.org/)
-   - [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-   - [Numpy](https://numpy.org/)
-   - [Pyserial](https://pyserial.readthedocs.io/en/latest/)
- - [C++](https://devdocs.io/cpp/)
- - [Arduino](https://www.arduino.cc/)
+<p align="left">
+   <a href="https://www.python.org/">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="30" width="30">
+   </a>
+
+   <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height=" 30" width="30">
+   </a>
+
+   <a href="https://numpy.org/">
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" height=" 30" width="30">
+   </a>
+    
+   <a href="https://pyserial.readthedocs.io/en/latest/">
+    <img src="https://pyserial.readthedocs.io/en/latest/_static/pyserial.png" alt="PySerial" height="30" width="30">
+   </a>
+
+   <a href="https://devdocs.io/cpp/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height=" 30" width="30">
+   </a>
+
+   <a href="https://www.arduino.cc/">
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" height=" 30" width="30">
+   </a>
+  </p>
